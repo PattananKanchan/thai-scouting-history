@@ -29,6 +29,12 @@ body {
   gap: 1.5rem;
 }
 
+.nav a{
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+
 /* Hero */
 .hero {
   text-align: center;
@@ -47,9 +53,6 @@ body {
   font-size: 1.3rem;
   color: #444;
 }
-.navbar a{
-  font-color: white;
-  font-size: 28px;
 
 /* Content */
 
