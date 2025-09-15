@@ -34,6 +34,23 @@ body {
     text-decoration: none;
     padding: 10px;
     margin: 10px;
+}
+
+div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: azure;
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+}
+
+ .nav-links a:hover{
+    color: brown;
+    font-size: larger;
+ }
 
 /* Hero */
 .hero {
