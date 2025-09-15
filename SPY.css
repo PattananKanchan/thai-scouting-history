@@ -47,6 +47,9 @@ body {
   font-size: 1.3rem;
   color: #444;
 }
+.navbar a{
+  font-color: white;
+  font-size: 28px;
 
 /* Content */
 
